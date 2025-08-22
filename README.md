@@ -23,3 +23,5 @@ EduNova is a fully responsive e-learning website.<br>
 🔹Contact Page: Get in touch for inquiries or collaborations.<br>
 
 🔹Reviews Section: Hear from others who have engaged with the platform.<br>
+
+Project is live at  https://chitranjali.github.io/EduNova/<br>
