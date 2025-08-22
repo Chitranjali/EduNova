@@ -1,5 +1,4 @@
-Front-end project.<br>
-This is a fully responsive e-learning website.<br>
+EduNova is a fully responsive e-learning website.<br>
 
 🛠 Technologies Used: <br>
 
